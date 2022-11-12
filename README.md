@@ -2,6 +2,7 @@
 A blueprint for the EIP-2535 Diamond implementation
 
 [more info on Diamonds](https://ethereum-blockchain-developer.com/110-upgrade-smart-contracts/11-eip-2535-diamond-standard/)
+
 [AAVEGOTCHI-GHST-Staking](https://github.com/aavegotchi/ghst-staking) Uses the diamond-2 implementation of EIP-2535 Diamond Standard.
 
 EIP-2535 is a proposal to modularize the code of contracts on Ethereum. Its purpose is to allow large smart contracts to break through the maximum size limit of 24kb, and to make it easier for contracts to update functions.
